@@ -11,4 +11,4 @@ class Lasanha
   end
 end
 lasanha = Lasanha.new
-puts lasanha::total_preparo_em_minutos(3,20)
+puts lasanha.total_preparo_em_minutos(3,20)
